@@ -10,7 +10,7 @@ on:
       agent_description:
         description: 'bioardi'
         required: true
-        default: 'uangdroid AI Agent'
+        default: 'bioardi AI Agent'
 
 jobs:
   verify:
